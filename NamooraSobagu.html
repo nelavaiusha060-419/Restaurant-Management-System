@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+    <style>
+      body{
+        background-color: lightblue;
+        background-image:url("bg_hotel.jpg");
+                        background-size : cover;
+
+      }
+          img{
+      opacity: 0.5;
+       background-image: linear-gradient(to bottom,red,yellow,white);
+        transition: opacity 1s ease;
+        border-radius: 100px;
+          }
+          img:hover{
+            opacity: 1;
+            transform: scale(1.1);
+            background-color: lightcoral;
+          }
+          h1{
+            color: white;
+            font-family:'Times New Roman', Times, serif;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+          }
+          
+    </style>
+    <script>
+      function changeText(){  
+      document.getElementById("h1").innerHTML="item names",h1;
+      }
+    </script>
+</head>
+<body>
+  <h2 id="h1"></h2>
+    <center>
+
+    <h1 align="center"></h1>
+    <img src ="hotel.img" height="200" width="200">
+    <br>
+    <h1><b>NAMOORA SABAGU</b></h1>
+    </center>
+        <h1 align="left" > <b>      Pure Veg items </b></h1>
+    <a href="http://127.0.0.1:5500/pureveg.html">
+    <img src="purev.jpg" height="250" width="250" align="left"></a>
+
+    <h1  align="right" ><b>Non Veg items    </b></h1>
+    <a href="http://127.0.0.1:5500/nonvegitems.html">
+    <img src="nonveg.img" height="250" width="250" align="right"></a>
+    
+    <h1 align="center" ><b>Desserts items</b></h1> 
+    <a href="dessertimg.img"></a>
+       
+<center>
+  <a href="http://127.0.0.1:5500/desserts.html">
+    <img src="dessertimg.img" height="250" width="250" alt="Dessert Bun">
+  </a>
+</center>
+    
+
+
+        
+    
+    
+</body>
+</html>
