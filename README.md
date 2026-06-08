@@ -1,47 +1,25 @@
 # 🍽️ Restaurant Management System
 
 ## 📌 Overview
-
-This project is a simple Restaurant Management System developed using HTML, CSS, and JavaScript. It provides an interactive restaurant menu where users can browse Pure Veg, Non-Veg, and Dessert items.
+A simple restaurant menu website developed using HTML, CSS, and JavaScript. The application allows users to browse Pure Veg, Non-Veg, and Dessert categories through an interactive interface.
 
 ## 🚀 Features
-
-- Attractive Restaurant Homepage
-- Veg Menu Section
-- Non-Veg Menu Section
-- Desserts Menu Section
+- Attractive Homepage
+- Pure Veg Menu
+- Non-Veg Menu
+- Dessert Menu
+- Navigation Between Pages
 - Responsive Design
-- Interactive Hover Effects
-- Easy Navigation Between Pages
+- Hover Effects and Styling
 
 ## 🛠 Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+## 📷 Screenshots
 
-Restaurant-Management-System/
-│
-├── index.html
-├── pureveg.html
-├── nonvegitems.html
-├── desserts.html
-├── bg_hotel.jpg
-├── purev.jpg
-├── nonveg.jpg
-├── dessertimg.jpg
-└── hotel.jpg
-
-## 🎯 Learning Outcomes
-
-- Web Page Design
-- Navigation Between Pages
-- CSS Styling & Animations
-- Image Handling
-- Basic JavaScript
+(Add uploaded screenshots here)
 
 ## 👩‍💻 Author
-
 Nelavai Usha
